@@ -13,7 +13,7 @@ import { CommonModule } from '@angular/common';
 					<div class="flex items-center">
 						<a routerLink="/" class="text-xl font-bold text-blue-600">ConectaT</a>
 					</div>
-					<div class="flex items-center space-x-4">
+					<div class="flex items-center space-x-4 max-sm:space-x-2">
 						<a
 							routerLink="/"
 							routerLinkActive="text-blue-600"
